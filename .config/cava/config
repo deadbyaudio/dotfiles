@@ -1,0 +1,9 @@
+[input]
+method = pulse
+source = alsa_output.usb-C-Media_Electronics_Inc._ThinkPad_OneLink_Plus_Dock_Audio-00.iec958-stereo.monitor
+
+[color]
+foreground = '#4e4e4e'
+gradient = 1
+gradient_color_1 = '#4e4e4e'
+gradient_color_2 = '#212121'

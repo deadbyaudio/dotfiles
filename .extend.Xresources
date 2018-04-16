@@ -1,0 +1,56 @@
+! =========================
+! ======== COLORS =========
+! =========================
+
+*background:  #dadada
+*foreground:  #4e4d4e
+
+!black
+*trueblack:   #000000
+*black:       #111111
+*color0:      #212121
+*color8:      #4e4e4e
+
+!red
+*color1:      #fa6e32
+*color9:      #fa6e32
+
+!green
+*color2:      #86b300
+*color10:     #86b300
+
+!yellow
+*color3:      #a17917
+*color11:     #a17917
+
+!blue
+*color4:      #399ee6
+*color12:     #399ee6
+
+!magenta
+*color5:      #a37acc
+*color13:     #a37acc
+
+!cyan
+*color6:      #55b4d4
+*color14:     #55b4d4
+
+!white
+*color7:      #fafafa
+*color15:     #ffffff
+
+
+*fading:                15
+*fadeColor:             white
+*pointerColorBackground:#2B2C2B
+*pointerColorForeground:#16A085
+
+
+! =========================
+! ========= ROFI ==========
+! =========================
+
+rofi.terminal:      termite
+rofi.ssh-client:    ssh
+rofi.width: 30
+

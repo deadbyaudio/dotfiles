@@ -1,0 +1,12 @@
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_output_name = "my_fifo"
+visualizer_sync_interval = "30" 
+visualizer_in_stereo = "yes"
+visualizer_type = "spectrum"
+visualizer_look = "+"
+main_window_color = default
+color1 = blue
+color2 = green
+current_item_inactive_column_prefix = $(black)$r
+song_columns_list_format = (20)[]{a} (6f)[green]{NE} (50)[black]{t|f:Title} (20)[cyan]{b} (7f)[magenta]{l}
+current_item_prefix = $(default)$r
